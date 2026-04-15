@@ -1,0 +1,21 @@
+[
+  {
+    "id": 3,
+    "side": "BUY",
+    "entry": 74063.92,
+    "sl": 73792.1887,
+    "tp": 74580.4627,
+    "qty": 0.382972,
+    "ml_label": "BUY",
+    "ml_conf": 0.8359,
+    "ml_hold_prob": 0.1573,
+    "ml_buy_prob": 0.8359,
+    "ml_sell_prob": 0.0068,
+    "renko_signal": 1,
+    "open_ts": "2026-04-15 13:59:59 UTC",
+    "status": "OPEN",
+    "exit": null,
+    "pnl": null,
+    "close_ts": null
+  }
+]
